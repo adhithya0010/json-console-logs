@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.adhithya0010.jsonconsolelogs
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
